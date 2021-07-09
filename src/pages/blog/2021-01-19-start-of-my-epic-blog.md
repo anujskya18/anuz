@@ -17,8 +17,9 @@ import json
 import os
 ```
 |SN   | Name   | class	    |
-| 1     | Anuj     | bachelor|
-| 2     | Abin     | 7            |
+----|----|----|
+| 1   | Anuj   | bachelor|
+| 2   | Abin     | 7            |
 
 This is my first blog. I am very happy. Yaaayy! This is my first blog. I am very happy. Yaaayy! This is my first blog. I am very happy. Yaaayy! This is my first blog. I am very happy. Yaaayy! This is my first blog. I am very happy. Yaaayy!
 

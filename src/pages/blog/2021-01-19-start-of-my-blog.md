@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Start of my blog
+title: Start of my epic blog
 date: 2021-01-19T04:08:26.713Z
 description: This is my first blog. I am very happy. Yaaayy!
 featuredpost: true
